@@ -1,3 +1,6 @@
+# Big Web Quiz: Firebase Edition
+## Below instructions may be not relevant
+
 # Prerequisites
 
 * Node >= 6.7.0
